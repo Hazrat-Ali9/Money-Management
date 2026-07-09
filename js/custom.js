@@ -1,4 +1,4 @@
-// custom
+// Custom
 //common function for 'calculate button' and call for all for calculation 
 function getInput(inputId){
     
